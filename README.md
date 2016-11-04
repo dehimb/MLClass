@@ -5,6 +5,7 @@ This repository contains program assignments for [machine learning course](https
 * [Logistic regression](machine-learning-ex2)
 * [Multi-class Classification and Neural Networks](machine-learning-ex3)
 * [Neural Network Learning](machine-learning-ex4)
+* [Regularized Linear Regression and Bias/Variance](machine-learning-ex5)
 
 ## About course
 Machine Learning by Stanford University  
