@@ -6,6 +6,7 @@ This repository contains program assignments for [machine learning course](https
 * [Multi-class Classification and Neural Networks](machine-learning-ex3)
 * [Neural Network Learning](machine-learning-ex4)
 * [Regularized Linear Regression and Bias/Variance](machine-learning-ex5)
+* [Support Vector Machines](machine-learning-ex6)
 
 ## About course
 Machine Learning by Stanford University  
