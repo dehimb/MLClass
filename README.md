@@ -7,6 +7,7 @@ This repository contains program assignments for [machine learning course](https
 * [Neural Network Learning](machine-learning-ex4)
 * [Regularized Linear Regression and Bias/Variance](machine-learning-ex5)
 * [Support Vector Machines](machine-learning-ex6)
+* [K-Means Clustering and PCA](machine-learning-ex7)
 
 ## About course
 Machine Learning by Stanford University  
