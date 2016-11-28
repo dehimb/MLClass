@@ -8,6 +8,7 @@ This repository contains program assignments for [machine learning course](https
 * [Regularized Linear Regression and Bias/Variance](machine-learning-ex5)
 * [Support Vector Machines](machine-learning-ex6)
 * [K-Means Clustering and PCA](machine-learning-ex7)
+* [Anomaly Detection and Recommender Systems](machine-learning-ex8)
 
 ## About course
 Machine Learning by Stanford University  
